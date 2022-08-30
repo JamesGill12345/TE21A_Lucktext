@@ -18,3 +18,5 @@ Console.WriteLine($"med en {djur}");
 
 
 Console.ReadLine();
+
+Console.WriteLine("hej")
